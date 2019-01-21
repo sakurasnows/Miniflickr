@@ -1,0 +1,22 @@
+{
+  "name": "Miniflickr",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Lun <lunli911281@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-deckgrid": "^0.5.0",
+    "me-lazyload": "^0.0.5"
+  }
+}
